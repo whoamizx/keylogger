@@ -11,7 +11,7 @@ server.ehlo()
 server.starttls()
 server.login(email, password)
 message =""
-name="52pj\n"
+name="check\n"
 long=10
 def on_mouse_click(x, y, button, pressed):
     global message
