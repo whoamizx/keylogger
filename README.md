@@ -41,6 +41,7 @@ pip install smtplib pynput
 
 ### 第三步：运行脚本
 ~~python启动~~
+
 将脚本保存为`keylogger.py`并使用Python运行它：
 
 ```bash
